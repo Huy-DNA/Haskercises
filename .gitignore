@@ -1,0 +1,9 @@
+*
+
+!README.md
+!.gitignore
+!Makefile
+!advanced
+!basic
+!games
+!*/*.hs
